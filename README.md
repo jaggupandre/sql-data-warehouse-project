@@ -32,7 +32,7 @@ Raw Data → Staging Tables → Transformed Data → Star Schema (Warehouse) →
 ```
 
 * **Fact Table:** `fact_sales`
-* **Dimension Tables:** `dim_customer`, `dim_product`, `dim_date`, `dim_region`
+* **Dimension Tables:** `dim_customers`, `dim_products`
 
 ---
 
